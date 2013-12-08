@@ -1,0 +1,54 @@
+Edit_Popusetting_table.txt
+
+Read this file and then make your changes by clicking 'Edit popupsetting table from coupon_admin page
+
+The Default values in table popupsetting are as follows
+
+showPopup                  ON
+popupHeading               Your Message Here
+delayBeforeExit            2000
+emailFrom                  sendingEmail@email.com
+emailReply                 replyToEmail@email.com
+emailSubject               email subject
+emailMsg                   email optional msg
+couponCode                 12345678
+daysToWaitBeforeNextPopup  3
+
+Description of the fields,  Values that must or should be changed are preceded by ->
+Please do not delete these records.  Blank the value out to ignore or disable it
+
+showPopup                  any value other than ON will disable the popup
+
+popupHeading               -> This is the text your customers will see at the top of the popup
+
+delayBeforeExit            How long in miliseconds for the exit animation 2000 = 2 seconds
+
+emailFrom                  ->the email address you want to say sent this email
+                           its best to use the actual address used by your php mailer
+                           you can use "Send Regular Test Email" From PopUp Coupon Admin
+                           to check this address.  Click on the link, fill in the form and send an email to an email account you can check,
+                           not an email address with yoursite as the domain.
+                           Send it to a hotmail. yahoo, gmail, aol or other account
+                           or a friend you can ask to review the email
+
+emailReply                 ->who do you want replies to go to
+                           customer service or a noreply address
+
+emailSubject               ->the subject line of the email
+
+emailMsg                   ->This is an optional field you can use to include a mesasge just for this popup
+                           blank out this field or enter a message
+
+couponCode                 ->an optional default of this promotion coupon code to be included in the email
+
+daysToWaitBeforeNextPopup  is the number of days to wait before offering visitors this promotion or another promotion
+
+
+
+* this file is an ascii file with CR LF
+
+check gmail to see the actual from
+gj@garyjohnsininfo.info via ionr.fleetnetworkshosting.com
+garyjohn@i?onr.fleetne?tworkshosti?ng.com (garyjohn@ionr.fleetnetworkshosting.com)
+
+garyjohn@ionr.fleetnetworkshosting.com

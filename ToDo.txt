@@ -1,0 +1,64 @@
+﻿To Do for popup
+
+ZLT77670DC8B the coupon for 17% off anything in the store and free shipping for any order over 250 act now while the savings are still here.﻿
+
+The risk free trial is way too good to be true, 30 day money back guarantee! ﻿
+
+Today was a great day. I spent it with loved ones and worked. I love my job and my family. I am truly blessed to be alive today.
+I feel today...and I am greatful for Gods gifts. I can't express the amount of gratitude I have for my life. ﻿
+
+The most efficient way to sell you services to a local or nationwide company I have found is to use a good formula that paints a picture in the clients mind. Allowing them to fill in the ROI blanks. Generally I give potential ROI however lead the conversation to a way where their own knowledge of the Internet can expand the possible opportunities of growth. By allowing the customer to relevant knowledge to imagine the power of possibility and leave the actual results to their imagination you can create a potential sale in their mind instead of mine.
+
+
+
+I try to always let them sell there self’s.
+
+
+pull out html email and put it a template
+include template in test html email and include_popup / GMsignup
+
+put in delay as a jquery thing no timeout
+put in easing
+
+create GMoptout
+
+test include_popup
+iframe
+in body - no
+
+add save and restore of popupsettings links
+
+if duplicate wait and close file
+check special characters in popupsetting and email
+
+put the shim or modernizer into include_popup
+
+jtable prevent delete
+
+different packaging of popup and how to set it up
+
+iframe
+at the top
+
+two sections of php includes for header and "body"
+
+object not found in IE 8
+
+requirements doc
+upload files to web site
+familairity and capabiltiy to edit text, php, html and other files
+prograaming skills not reguired
+PHP 5.26 of later  5.3 recommended and php mail configured (see Send a Regualar text email
+PHP support of php
+mysql ( we can acomodate different DB please contact us )
+abiltiy to add tables to a database (optional add databse) and at leaset select a username with read wrtie and delete access to Database (or create user)
+
+at least one of FTP, SSH, Cpanel or equivalent access
+
+wordpress plugin in development
+integration into zend, codeigniter and other frameworks available
+
+optional professional install available
+
+
+

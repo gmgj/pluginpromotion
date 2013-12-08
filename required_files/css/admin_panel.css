@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+<style type="text/css">
+body {
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:0px;
+	padding:0px;}
+
+	#head {
+	width: 900px;
+	height: 155px;
+	background-image: url(required_files/images/popup-admin-page-header.png);
+	background-repeat: no-repeat;
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:20px;
+		}
+		.steps ul li {float:left;
+		line-height:23px;}
+
+		.steps ul { list-style-type:none;
+
+		}
+		.buttons ul { list-style-type:none;
+
+		}
+		.spc1 {padding-left:10px;
+		padding-bottom:7px;
+		float:left;
+		width:375px;
+
+		}
+		.buttons .spc1 {padding-left:10px;
+		padding-bottom:7px;
+		float:left;
+		width:375px;
+
+		}
+		.clr { clear:left;
+		}
+		.buttons .clr { clear:left;
+		}
+		.steps {width:450px;
+
+		}
+		.contain { width:900px;
+		margin-left:auto;
+		margin-right:auto;
+		}
+		.buttons {width:350px;}
+
+		.spc { padding-top:5px;
+		padding-bottom:5px;}
+		.spc2{padding-bottom:17px;
+		padding-top:20px;}
+		.otherPadding {
+			padding-bottom:15px;
+			padding-top:17px;
+			padding-left:10px;}
+			.otherPadding1 {
+			padding-bottom:17px;
+			padding-left:10px;}
+			.otherPadding2 {
+			padding-bottom:10px;
+			padding-top:10px;
+			}
+			.otherLinks ul { list-style-type:none;}
+			.uninstall ul { list-style-type:none;}
+			.qbert {clear:both; width:900px; height:5px; background:#AACC72; margin-left:auto; margin-right:auto;}
+			.uninstall {padding-top:10px;}
+			.copyrights {text-align:center; font-size:10px; font-weight:600}
+			.disclaimer { font-size:12px;}
+
+
+</style>

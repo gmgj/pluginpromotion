@@ -1,0 +1,67 @@
+﻿#head {
+width: 900px;
+height: 155px;
+background-image: url(../images/popup-admin-page-header.png);
+background-repeat: no-repeat;
+margin-left:auto;
+margin-right:auto; }
+
+H1 {
+color: blue;
+font-weight: bolder;
+text-align: center;
+font-family: "Segoe UI","Helvetica Neue", Verdana ,Helvetica , sans-serif;
+text-shadow: 1px 1px 1px black }
+
+.SHN {
+color:blue;
+font-family:'Lucida Calligraphy',Vivaldi,cursive;
+font-weight:bold;font-size:32px;
+text-shadow:1px 1px 1px black;
+text-align:left;}
+
+
+table#zip {
+border: 1px solid white;
+vertical-align:top;
+text-align:center;
+border-collapse: collapse;
+border-spacing: 0;
+margin:auto;
+font-family: "Segoe UI","Helvetica Neue", Verdana ,Helvetica , sans-serif; }
+
+table#zip tbody tr:nth-of-type(odd) {
+	background:#ffc; }
+
+table#zip tr th, table#zip tr td {
+padding: 7px 4px;
+border: 1px solid black; }
+
+/* ft fancy table pt plain table */
+table.ft {
+background-color: white;
+color: black;
+vertical-align:top;
+text-align:center;
+border-collapse: collapse ;
+margin:auto;
+font-family: "Segoe UI","Helvetica Neue", Verdana ,Helvetica , sans-serif;
+padding: 4px 7px; }
+
+table.ft tr:nth-of-type(odd) {
+	background-color:azure; }
+
+table.pt {
+background-color: white;
+color: black;
+vertical-align:top;
+text-align:left;
+border-collapse: collapse ;
+font-family: "Segoe UI","Helvetica Neue", Verdana ,Helvetica , sans-serif;
+padding: 4px 7px;
+border: 1px solid black; }
+
+table.ft tr th, table.ft tr td, table.pt tr th, table.pt tr td  {
+padding: 4px 7px;
+border: 1px solid black;
+color:blue; }
